@@ -2,3 +2,4 @@ Open the terminal
 Enter vim -c '3p' followed by the file pathname
 Save and exit the terminal
 Then make the command executable using +x
+Then make the command executable using +x
