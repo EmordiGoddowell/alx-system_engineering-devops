@@ -1,1 +1,1 @@
-This is a readme for shell permissions input and output
+This is a readme basically for shell permissions input and output
