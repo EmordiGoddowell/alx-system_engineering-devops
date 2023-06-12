@@ -1,2 +1,2 @@
 #!/bin/bash
-vim -c '3p' "iacta"
+head -n 3 iacta | tail -n 1
